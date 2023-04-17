@@ -1,5 +1,5 @@
 export default function iterateThroughObject(reportWithIterator) {
   if (!reportWithIterator) {
-    return 'Placeholder';
+    console.log('Placeholder');
   }
 }
