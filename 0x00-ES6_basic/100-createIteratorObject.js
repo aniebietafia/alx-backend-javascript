@@ -1,5 +1,5 @@
 export default function createIteratorObject(report) {
-	while (report) {
-		return 'Placeholder';
-	}
+  while (report) {
+    console.log('Placeholder');
+  }
 }
