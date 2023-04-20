@@ -6,6 +6,7 @@ export default class Building {
     // Create objs
     this._sqft = sqft;
   }
+
   // Getters
   get sqft() {
     return this._sqft;
