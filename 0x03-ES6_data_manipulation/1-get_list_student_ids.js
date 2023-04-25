@@ -1,14 +1,9 @@
 export default function getListStudentIds(objArray) {
-
-  //checks if not an array
-
   if (!Array.isArray(objArray)) {
     return [];
   }
 
-  // using map method to retrieve student id
+  const ids = objArray.map((student) => student.id);
 
-  return objArray.map((student) => {
-    return student.id;
-  });
+  return ids;
 }
