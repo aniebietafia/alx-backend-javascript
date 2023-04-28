@@ -13,7 +13,9 @@ Some of the Backend programming languages are Python, PHP, Ruby, C # and Java, a
 
 ## :books: Content
 
-- [0x00-python_variable_annotations](/0x00-python_variable_annotations)
+- [0x00-ES6_basics](/0x00-ES6_basics)
+- [0x01-ES6_promise](/0x01-ES6_promise)
+- [0x02-ES6_classes](/0x02-ES6_classes)
 
 
 
