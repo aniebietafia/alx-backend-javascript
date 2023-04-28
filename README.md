@@ -20,7 +20,11 @@ Some of the Backend programming languages are Python, PHP, Ruby, C # and Java, a
 ## :sagittarius: Author
 
 > :man: Aniebiet Afia
+
 > :e-mail: [E-mail](aniebietafia87@gmail.com)
+
 > :octocat: [Github](https://github.com/AfiaAniebiet)
+
 > :bird: [Twiiter](https://twitter.com/AfiaAniebiet)
+
 > :blue_book: [Linkedin](https://www.linkedin.com/in/aniebietafia/)
