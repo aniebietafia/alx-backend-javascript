@@ -6,8 +6,9 @@ const rl = readline.createInterface({
 });
 
 rl.question('Welcome to Holberton School, what is your name?\n', function (input) {
-  rl.write(`Your name is: ${input}`);
+  rl.write(`Your name is: ${input} \n`);
+});
 
-  rl.close();
-  console.log('This important software is now closing\n');
+rl.on('close', () => {
+  rl.write('This important software is now closing\n');
 });
