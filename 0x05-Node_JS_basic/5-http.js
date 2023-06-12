@@ -4,7 +4,7 @@ const countStudents = require('./3-read_file_async');
 
 const PORT = 1245;
 
-async function requestHandler(req, res) {
+const app = http.createServer(async (req, res) => {
   if (req.url === '/') {
     res.statusCode = 200;
     res.setHeader('Content-Type', 'text/plain');
@@ -22,9 +22,7 @@ async function requestHandler(req, res) {
     }
   }
   res.end();
-}
-
-const app = http.createServer(requestHandler);
+});
 
 app.listen(PORT);
 
