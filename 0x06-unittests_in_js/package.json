@@ -4,7 +4,7 @@
   "description": "ALX-SE Projects for unittests in JavaScript.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "./node_modules/mocha/bin/mocha"
   },
   "keywords": [],
   "author": "Aniebiet Afia",
