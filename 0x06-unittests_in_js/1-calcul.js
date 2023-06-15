@@ -1,16 +1,17 @@
-function calculateNumber(type, a, b) {
-  if (type === 'SUM') {
-    return Math.round(Number(a)) + Math.round(Number(b));
-  }
-  if (type === 'SUBTRACT') {
-    return Math.round(Number(a)) - Math.round(Number(b));
-  }
-  if (type === 'DIVIDE') {
-    if (Math.round(Number(b)) === 0) {
-      throw new Error('Error');
-    } else {
-      return Math.round(Number(a)) / Math.round(Number(b));
-    }
-  }
+const calculateNumber = (type, a, b) => {
+  switch (type) {
+    case 'SUM':
+      return Math.round(a) + Math.round(b);
+      break;
+    case 'SUBTRACT':
+      return Math.round(a) - Math.round(b);
+      break;
+    case 'DIVIDE':
+      if (Math.round(b) === 0) return 'Error';
+      return Math.round(a) / Math.round(b);
+      break;
+    default:
+      break;
+  };
 }
 module.exports = calculateNumber;
