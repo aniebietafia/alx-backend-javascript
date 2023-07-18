@@ -27,6 +27,6 @@ Some of the Backend programming languages are Python, PHP, Ruby, C # and Java, a
 
 > :octocat: [Github](https://github.com/AfiaAniebiet)
 
-> :bird: [Twiiter](https://twitter.com/AfiaAniebiet)
+> :bird: [Twiter](https://twitter.com/AfiaAniebiet)
 
 > :blue_book: [Linkedin](https://www.linkedin.com/in/aniebietafia/)
