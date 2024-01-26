@@ -16,6 +16,7 @@ Some of the Backend programming languages are Python, JavaScript, PHP, Ruby, C #
 - [0x00-ES6_basics](/0x00-ES6_basics)
 - [0x01-ES6_promise](/0x01-ES6_promise)
 - [0x02-ES6_classes](/0x02-ES6_classes)
+- [0x04-TypeScript](/0x04-TypeScript)
 
 
 
