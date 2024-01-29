@@ -13,3 +13,5 @@
 > - All of your functions must be exported
 
 ### Setup
+- Clone the repository using `git clone`
+- Install necessary dependencies using `npm install`
