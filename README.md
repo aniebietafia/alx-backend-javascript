@@ -1,6 +1,6 @@
 # ALX Backend JavaScript
 
-Tasks done as part of the ALX-Africa School of Software Engineering Programme with specialization in Backend Engineering.
+Tasks done as part of the ALX-Africa School of Software Engineering Programme with specialization in Backend Engin
 
 ## Backend engineering Tasks
 
